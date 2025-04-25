@@ -100,8 +100,6 @@ venv/
 ENV/
 env.bak/
 venv.bak/
-# Your specific conda env - good practice to ignore it if it were inside the project
-# deeplearn_env/  <-- Only add this if you created the env *inside* this project folder
 
 # Spyder project settings
 .spyderproject
